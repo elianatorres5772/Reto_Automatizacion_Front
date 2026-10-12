@@ -26,7 +26,6 @@ Skills aplicadas: scaffold del framework, implementación de features, orquestac
 - Elección del stack y de las convenciones (definidas en las skills).
 - Uso de Playwright como motor de automatización de la UI.
 - Uso del reporte de Serenity BDD con capturas, y del JRE portable en lugar de instalar Java en el sistema.
-- Excluir las skills del repositorio.
 - Aprobación de cada paso relevante durante la sesión.
 
 ## Hallazgos durante el desarrollo

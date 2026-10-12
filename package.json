@@ -13,7 +13,8 @@
     "test:report": "node scripts/test-with-report.cjs",
     "report:update": "node scripts/serenity-bdd.cjs update",
     "report:serenity": "node scripts/serenity-bdd.cjs run --features ./features --project \"Registro como proveedor\"",
-    "report:open": "start \"\" target/site/serenity/index.html"
+    "report:open": "start \"\" target/site/serenity/index.html",
+    "report:publish": "node scripts/publish-report.cjs"
   },
   "devDependencies": {
     "@cucumber/cucumber": "^13.3.0",

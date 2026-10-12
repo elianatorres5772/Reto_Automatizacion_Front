@@ -1,5 +1,7 @@
 # Automatización · Registro como proveedor
 
+**📊 [Ver el reporte de Serenity BDD de la última ejecución exitosa](https://elianatorres5772.github.io/Reto_Automatizacion_Front/)**: 35 escenarios, HU-1 a HU-5, con capturas de cada paso.
+
 Pruebas E2E de la aplicación de preparación documental
 (`https://registro-proveedor-cvqp.onrender.com`) con **Serenity/JS + Screenplay + Cucumber + Playwright** sobre el Chrome local.
 
@@ -22,6 +24,7 @@ pnpm lint:types               # validación de TypeScript
 pnpm test:report              # ejecuta la suite y genera el reporte (acepta filtros: pnpm test:report --tags @HU-4)
 pnpm report:serenity          # regenera el reporte con los resultados de la última ejecución
 pnpm report:open              # abre target/site/serenity/index.html
+pnpm report:publish           # publica el reporte en GitHub Pages (rama gh-pages)
 ```
 
 - Incluye requisitos por feature, escenarios con sus Ejemplos, cada Task e Interaction y las fotos de la página.
