@@ -1,0 +1,107 @@
+{
+  "cliente": "Industrias Delta S.A.S.",
+  "campos": [
+    {
+      "etiqueta": "Razón social",
+      "hoja": "Datos Proveedor",
+      "celda_etiqueta": "B3",
+      "celda_valor": "C3"
+    },
+    {
+      "etiqueta": "NIT",
+      "hoja": "Datos Proveedor",
+      "celda_etiqueta": "B4",
+      "celda_valor": "C4"
+    },
+    {
+      "etiqueta": "Dígito de verificación",
+      "hoja": "Datos Proveedor",
+      "celda_etiqueta": "B5",
+      "celda_valor": "C5"
+    },
+    {
+      "etiqueta": "Dirección",
+      "hoja": "Datos Proveedor",
+      "celda_etiqueta": "B6",
+      "celda_valor": "C6"
+    },
+    {
+      "etiqueta": "Ciudad",
+      "hoja": "Datos Proveedor",
+      "celda_etiqueta": "B7",
+      "celda_valor": "C7"
+    },
+    {
+      "etiqueta": "Código postal",
+      "hoja": "Datos Proveedor",
+      "celda_etiqueta": "B8",
+      "celda_valor": "C8"
+    },
+    {
+      "etiqueta": "Teléfono",
+      "hoja": "Datos Proveedor",
+      "celda_etiqueta": "B9",
+      "celda_valor": "C9"
+    },
+    {
+      "etiqueta": "Correo electrónico",
+      "hoja": "Datos Proveedor",
+      "celda_etiqueta": "B10",
+      "celda_valor": "C10"
+    },
+    {
+      "etiqueta": "Representante legal",
+      "hoja": "Datos Proveedor",
+      "celda_etiqueta": "B11",
+      "celda_valor": "C11"
+    },
+    {
+      "etiqueta": "Cédula del representante legal",
+      "hoja": "Datos Proveedor",
+      "celda_etiqueta": "B12",
+      "celda_valor": "C12"
+    },
+    {
+      "etiqueta": "Actividad económica",
+      "hoja": "Datos Proveedor",
+      "celda_etiqueta": "B13",
+      "celda_valor": "C13"
+    },
+    {
+      "etiqueta": "Código CIIU",
+      "hoja": "Datos Proveedor",
+      "celda_etiqueta": "B14",
+      "celda_valor": "C14"
+    },
+    {
+      "etiqueta": "Régimen tributario",
+      "hoja": "Datos Proveedor",
+      "celda_etiqueta": "B15",
+      "celda_valor": "C15"
+    },
+    {
+      "etiqueta": "Banco",
+      "hoja": "Datos Bancarios",
+      "celda_etiqueta": "B3",
+      "celda_valor": "C3"
+    },
+    {
+      "etiqueta": "Tipo de cuenta",
+      "hoja": "Datos Bancarios",
+      "celda_etiqueta": "B4",
+      "celda_valor": "C4"
+    },
+    {
+      "etiqueta": "Número de cuenta",
+      "hoja": "Datos Bancarios",
+      "celda_etiqueta": "B5",
+      "celda_valor": "C5"
+    },
+    {
+      "etiqueta": "Titular de la cuenta",
+      "hoja": "Datos Bancarios",
+      "celda_etiqueta": "B6",
+      "celda_valor": "C6"
+    }
+  ]
+}

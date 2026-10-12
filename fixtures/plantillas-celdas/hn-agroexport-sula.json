@@ -1,0 +1,71 @@
+{
+  "cliente": "Agroexport Sula S. de R.L.",
+  "campos": [
+    {
+      "etiqueta": "Razón social",
+      "hoja": "Registro",
+      "celda_etiqueta": "A2",
+      "celda_valor": "B2"
+    },
+    {
+      "etiqueta": "RTN",
+      "hoja": "Registro",
+      "celda_etiqueta": "A3",
+      "celda_valor": "B3"
+    },
+    {
+      "etiqueta": "País",
+      "hoja": "Registro",
+      "celda_etiqueta": "A4",
+      "celda_valor": "B4"
+    },
+    {
+      "etiqueta": "Dirección",
+      "hoja": "Registro",
+      "celda_etiqueta": "A5",
+      "celda_valor": "B5"
+    },
+    {
+      "etiqueta": "Teléfono",
+      "hoja": "Registro",
+      "celda_etiqueta": "A6",
+      "celda_valor": "B6"
+    },
+    {
+      "etiqueta": "Correo electrónico",
+      "hoja": "Registro",
+      "celda_etiqueta": "A7",
+      "celda_valor": "B7"
+    },
+    {
+      "etiqueta": "Representante legal",
+      "hoja": "Registro",
+      "celda_etiqueta": "A8",
+      "celda_valor": "B8"
+    },
+    {
+      "etiqueta": "Fecha de constitución",
+      "hoja": "Registro",
+      "celda_etiqueta": "A9",
+      "celda_valor": "B9"
+    },
+    {
+      "etiqueta": "Número de empleados",
+      "hoja": "Registro",
+      "celda_etiqueta": "A10",
+      "celda_valor": "B10"
+    },
+    {
+      "etiqueta": "Ingresos anuales",
+      "hoja": "Registro",
+      "celda_etiqueta": "A11",
+      "celda_valor": "B11"
+    },
+    {
+      "etiqueta": "Referencias comerciales",
+      "hoja": "Registro",
+      "celda_etiqueta": "A12",
+      "celda_valor": "B12"
+    }
+  ]
+}

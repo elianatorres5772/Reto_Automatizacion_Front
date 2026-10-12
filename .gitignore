@@ -1,0 +1,7 @@
+node_modules/
+target/
+.env
+.tools/
+# Skills de IA: se entregan por separado como parte del reto
+Skills/
+.claude/

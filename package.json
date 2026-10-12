@@ -1,0 +1,39 @@
+{
+  "name": "automatizacion-reto1",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "description": "Automatización E2E del registro como proveedor con Serenity/JS, Screenplay, Cucumber y Playwright",
+  "scripts": {
+    "lint:types": "tsc --noEmit",
+    "test": "cucumber-js",
+    "test:headed": "cross-env HEADLESS=false cucumber-js",
+    "test:hu": "cucumber-js --tags",
+    "test:smoke": "cucumber-js --tags @smoke",
+    "test:report": "node scripts/test-with-report.cjs",
+    "report:update": "node scripts/serenity-bdd.cjs update",
+    "report:serenity": "node scripts/serenity-bdd.cjs run --features ./features --project \"Registro como proveedor\"",
+    "report:open": "start \"\" target/site/serenity/index.html"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^13.3.0",
+    "@serenity-js/assertions": "^3.49.0",
+    "@serenity-js/console-reporter": "^3.49.0",
+    "@serenity-js/core": "^3.49.0",
+    "@serenity-js/cucumber": "^3.49.0",
+    "@serenity-js/playwright": "^3.49.0",
+    "@serenity-js/serenity-bdd": "^3.49.0",
+    "@serenity-js/web": "^3.49.0",
+    "@types/adm-zip": "^0.6.0",
+    "@types/node": "^26.6.5",
+    "adm-zip": "^0.6.1",
+    "cross-env": "^10.1.0",
+    "dotenv": "^18.0.7",
+    "exceljs": "^4.4.0",
+    "playwright": "^1.64.0",
+    "playwright-core": "1.64.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3",
+    "unpdf": "^1.8.1"
+  }
+}
